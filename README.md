@@ -38,81 +38,81 @@ Precision Medicine
 
 ## Portfolio Projects
 
-### 1. Lupus Nephritis Target Discovery Atlas
+<table>
 
-**Goal**
+<tr>
 
-Identify disease-driving therapeutic targets from human and mouse single-cell RNA sequencing.
+<td align="center" width="50%">
 
-**Highlights**
+<h3>Project 1</h3>
 
-- Differential expression
-- Spatial transcriptomics validation
-- Mouse validation
-- Target ranking
+<b>Lupus Nephritis Target Discovery Atlas</b>
 
-➡ **Repository**
+<a href="https://github.com/YOUR_USERNAME/Lupus-Nephritis-Target-Discovery-Atlas">
 
-https://github.com/YOUR_USERNAME/Lupus-Nephritis-Target-Discovery-Atlas
+<img src="figures/project1_target_discovery.png" width="420">
 
----
+</a>
 
-### 2. Cell–Cell Communication Analysis
+Identification and prioritization of therapeutic targets from human and mouse single-cell RNA-seq.
 
-**Goal**
+</td>
 
-Infer immune communication networks in lupus nephritis.
+<td align="center" width="50%">
 
-**Highlights**
+<h3>Project 2</h3>
 
-- CellChat
-- Ligand–receptor interactions
-- Pathway analysis
-- Communication network visualization
+<b>Cell–Cell Communication Analysis</b>
 
-➡ Repository
+<a href="https://github.com/YOUR_USERNAME/Lupus-Nephritis-CellCell-Communication">
 
-https://github.com/YOUR_USERNAME/Lupus-Nephritis-CellCell-Communication
+<img src="figures/project2_cellchat.png" width="420">
 
----
+</a>
 
-### 3. AI-Driven Therapeutic Target Prioritization
+Inference of ligand–receptor communication networks and signaling pathways in lupus nephritis.
 
-**Goal**
+</td>
 
-Integrate multiple biological data sources into an AI-inspired target prioritization framework.
+</tr>
 
-**Highlights**
+<tr>
 
-- Feature engineering
-- Target scoring
-- PCA
-- Hierarchical clustering
-- Weighted AI ranking
+<td align="center">
 
-➡ Repository
+<h3>Project 3</h3>
 
-https://github.com/YOUR_USERNAME/AI-Therapeutic-Target-Prioritization
+<b>AI-Driven Therapeutic Target Prioritization</b>
 
----
+<a href="https://github.com/YOUR_USERNAME/AI-Therapeutic-Target-Prioritization">
 
-### 4. AI-Driven Patient Stratification
+<img src="figures/project3_ai_targets.png" width="420">
 
-**Goal**
+</a>
 
-Identify patient subtypes and precision therapeutic hypotheses from single-cell RNA sequencing.
+Integration of multiple biological evidence sources into an AI-inspired therapeutic target prioritization framework.
 
-**Highlights**
+</td>
 
-- Patient feature engineering
-- PCA
-- Hierarchical clustering
-- Random Forest
-- Therapeutic recommendation engine
+<td align="center">
 
-➡ Repository
+<h3>Project 4</h3>
 
-https://github.com/YOUR_USERNAME/Lupus-Nephritis-Patient-Stratification
+<b>AI-Driven Patient Stratification</b>
+
+<a href="https://github.com/YOUR_USERNAME/Lupus-Nephritis-Patient-Stratification">
+
+<img src="figures/project4_patient_clusters.png" width="420">
+
+</a>
+
+Patient subtype discovery using single-cell transcriptomics and machine learning.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
