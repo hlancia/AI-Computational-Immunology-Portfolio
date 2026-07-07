@@ -1,5 +1,11 @@
 # AI Computational Immunology Portfolio
 
+![R](https://img.shields.io/badge/R-4.6+-276DC3?logo=r)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
+![Single Cell](https://img.shields.io/badge/Single--Cell-RNAseq-orange)
+![Autoimmunity](https://img.shields.io/badge/Autoimmunity-Lupus-blue)
+![Precision Medicine](https://img.shields.io/badge/Precision-Medicine-red)
+
 ## Overview
 
 This repository serves as the central portfolio for my computational biology and AI projects focused on autoimmune disease, single-cell transcriptomics, therapeutic target discovery, and precision medicine.
