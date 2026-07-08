@@ -151,10 +151,15 @@ Patient subtype discovery using single-cell transcriptomics and machine learning
 
 ---
 
-## Future Projects
+## Long-Term Vision
 
-- Multi-omic integration
+The long-term goal of this portfolio is to develop an AI-driven computational platform capable of integrating:
+
+- Single-cell transcriptomics
 - Spatial transcriptomics
-- Graph Neural Networks
-- Drug repurposing AI
-- Clinical response prediction
+- Cell–cell communication
+- Multi-omic datasets
+- Machine learning
+- Therapeutic target discovery
+
+to accelerate precision medicine for autoimmune diseases.
