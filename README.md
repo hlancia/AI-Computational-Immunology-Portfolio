@@ -16,33 +16,28 @@ The projects are organized as a progressive research pipeline that mirrors a tra
 
 ## Research Workflow
 
-```text
-Single-cell RNA-seq
+```mermaid
+flowchart TD
 
-        ↓
+A[Public Single-cell RNA-seq Data]
 
-Target Discovery
+--> B[Project 1<br>Target Discovery]
 
-        ↓
+--> C[Project 2<br>Cell-Cell Communication]
 
-Cell–Cell Communication
+--> D[Project 3<br>AI Target Prioritization]
 
-        ↓
+--> E[Project 4<br>Patient Stratification]
 
-AI Target Prioritization
-
-        ↓
-
-Patient Stratification
-
-        ↓
-
-Precision Medicine
+--> F[Precision Medicine]
 ```
 
 ---
 
 ## Portfolio Projects
+
+The projects below are designed as a continuous computational biology workflow.
+Each repository builds upon the previous one, progressing from biological discovery to AI-assisted precision medicine.
 
 <table>
 
