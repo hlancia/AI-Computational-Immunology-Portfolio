@@ -117,16 +117,37 @@ Patient subtype discovery using single-cell transcriptomics and machine learning
 
 ---
 
-## Skills Demonstrated
+## Technical Skills Demonstrated
 
-- Computational Biology
-- Machine Learning
-- Single-cell RNA sequencing
-- Translational Immunology
-- Precision Medicine
-- R Programming
-- Data Visualization
-- Reproducible Research
+### Computational Biology
+
+- Single-cell RNA-seq analysis
+- Differential expression
+- Cell–cell communication inference
+- Patient stratification
+- Therapeutic target prioritization
+
+### Machine Learning
+
+- Random Forest
+- Feature engineering
+- Unsupervised clustering
+- Principal Component Analysis
+
+### Programming
+
+- R
+- Seurat
+- tidyverse
+- ggplot2
+- pheatmap
+
+### Biomedical Applications
+
+- Autoimmunity
+- Lupus nephritis
+- Precision medicine
+- Therapeutic target discovery
 
 ---
 
