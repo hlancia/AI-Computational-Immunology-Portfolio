@@ -163,3 +163,13 @@ The long-term goal of this portfolio is to develop an AI-driven computational pl
 - Therapeutic target discovery
 
 to accelerate precision medicine for autoimmune diseases.
+
+---
+
+## Citation
+
+If you find these projects useful, please consider starring the repositories.
+
+---
+
+Developed as an independent computational biology and AI portfolio focused on translational immunology and precision medicine.
