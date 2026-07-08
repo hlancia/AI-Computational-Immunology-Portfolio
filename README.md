@@ -49,7 +49,7 @@ Each repository builds upon the previous one, progressing from biological discov
 
 <b>Lupus Nephritis Target Discovery Atlas</b>
 
-<a href="https://github.com/YOUR_USERNAME/Lupus-Nephritis-Target-Discovery-Atlas">
+<a href="https://github.com/hlancia/lupus-nephritis-macrophage-target-discovery">
 
 <img src="figures/project1_target_discovery.png" width="420">
 
@@ -65,7 +65,7 @@ Identification and prioritization of therapeutic targets from human and mouse si
 
 <b>Cell–Cell Communication Analysis</b>
 
-<a href="https://github.com/YOUR_USERNAME/Lupus-Nephritis-CellCell-Communication">
+<a href="https://github.com/hlancia/lupus-nephritis-cell-cell-communication">
 
 <img src="figures/project2_cellchat.png" width="420">
 
@@ -85,7 +85,7 @@ Inference of ligand–receptor communication networks and signaling pathways in 
 
 <b>AI-Driven Therapeutic Target Prioritization</b>
 
-<a href="https://github.com/YOUR_USERNAME/AI-Therapeutic-Target-Prioritization">
+<a href="https://github.com/hlancia/lupus-nephritis-ai-target-prioritization">
 
 <img src="figures/project3_ai_targets.png" width="420">
 
@@ -101,7 +101,7 @@ Integration of multiple biological evidence sources into an AI-inspired therapeu
 
 <b>AI-Driven Patient Stratification</b>
 
-<a href="https://github.com/YOUR_USERNAME/Lupus-Nephritis-Patient-Stratification">
+<a href="https://github.com/hlancia/lupus-nephritis-patient-stratification">
 
 <img src="figures/project4_patient_clusters.png" width="420">
 
