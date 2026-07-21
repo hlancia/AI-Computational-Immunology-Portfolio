@@ -47,7 +47,7 @@ Each repository builds upon the previous one, progressing from biological discov
 
 <h3>Project 1</h3>
 
-<b>Lupus Nephritis Target Discovery Atlas</b>
+<b>Cross-Species Therapeutic Target Discovery in Lupus Nephritis</b>
 
 <a href="https://github.com/hlancia/lupus-nephritis-macrophage-target-discovery">
 
